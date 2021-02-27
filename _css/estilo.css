@@ -1,5 +1,4 @@
-@charset "UTF-8"
-
+@charset "UTF-8";
 /* estrutura do body essencial para o margin e o padding,
 sempre colocar este comando em todos os projetos*/
 /*inicio*/
@@ -7,7 +6,7 @@ sempre colocar este comando em todos os projetos*/
     box-sizing: border-box;
 }
     body {
-    margin: 0px;s
+    margin: 0px;
 }
 /*fim*/   
 
@@ -180,7 +179,7 @@ table#tabela caption span{
 /*FIM*/
 aside#lateral{
     display: block;
-    width: 460px;
+    width: 430px;
     float: right;
     background-color: #dddddd;
     padding: 10px;
